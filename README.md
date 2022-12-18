@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg" width="640" height="480"/>
 </div>
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=I-rina1912e&theme=dark&background=000000)](https://git.io/streak-stats)

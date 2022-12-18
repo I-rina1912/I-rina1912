@@ -15,6 +15,6 @@ Here are some ideas to get you started:
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=I-rina1912&theme=tokyonight&border_radius=10&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
   
-<div align="right">
+<div align="left">
   <img src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg" width="640" height="480"/>
 </div>

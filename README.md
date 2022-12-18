@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=I-rina1912&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=tokyonight&border_radius=10&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>

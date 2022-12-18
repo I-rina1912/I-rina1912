@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 </div>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=I-rina1912e&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=I-rina1912&theme=dark&background=000000)](https://git.io/streak-stats)

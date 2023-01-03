@@ -5,9 +5,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on development of a bot in Telegram
-- 🌱 I’m currently learning 'Phyton"
+- 🌱 I’m currently learning 'Python"
 - 🤔 looking for help in learning English
-- 📫 How to reach me: +37529-763-74-17 in Telegram
+- 📫 How to reach me: @irina_it_python in Telegram
 - 😄 Pronouns: smile 
 - ⚡ Fun fact: When there is a goal, the facts do not count
 

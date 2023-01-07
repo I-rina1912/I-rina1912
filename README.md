@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on development of a bot in Telegram
 - 🌱 I’m currently learning 'Python"
 - 🤔 looking for help in learning English
-- 📫 How to reach me: @irina_it_python in Telegram
+- 📫 How to reach me: @massage_irenka in Telegram
 - 😄 Pronouns: smile 
 - ⚡ Fun fact: When there is a goal, the facts do not count
 
